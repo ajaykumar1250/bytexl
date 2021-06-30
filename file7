@@ -2,3 +2,4 @@ check stash
 hello stash
 test reset
 revert1
+revert2
